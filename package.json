@@ -1,0 +1,17 @@
+{
+  "name": "com.rabbitgo.remoteconnection.core",
+  "displayName": "RemoteConnectionCore",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "description": "RemoteConnectionCore is MR based remote connection system.",
+  "author": {
+    "name": "Yusuke Kikuchi"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "category": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
