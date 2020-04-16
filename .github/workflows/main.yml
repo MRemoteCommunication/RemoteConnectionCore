@@ -14,3 +14,5 @@ jobs:
     - uses: rabbit-go/actions-upm-publish@v1.0.3
       with:
         npm_auth_token: ${{ secrets.NPM_AUTH_TOKEN }}
+        npm_user: ${{ secrets.INPUT_LOGIN_NAME }}
+        npm_pass: ${{ secrets.INPUT_LOGIN_PASSWORD }}
